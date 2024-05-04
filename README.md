@@ -25,6 +25,4 @@ Bu Netflix klonu Eyüp Aslan tarafından oluşturuldu.
 
 - Farklı ekran boyutlarına uyum sağlayan duyarlı tasarım.
 - Çeşitli film ve TV şovlarını gösteren ana sayfa.
-- Belirli başlıkları bulmak için arama işlevi.
 - Bilgi ve fragmanları içeren film ve TV şovu ayrıntıları sayfaları.
-- Kullanıcı kimlik doğrulaması ve hesap oluşturma.
