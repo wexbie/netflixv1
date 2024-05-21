@@ -2,6 +2,9 @@
 
 Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Netflix kopyasıdır. Popüler yayın platformunun tasarımını ve işlevselliğini kopyalamayı amaçlamaktadır.
 
+# Demo
+https://stellular-melomakarona-b501e4.netlify.app/
+
 
 ## Nasıl Çalıştırılır
 
