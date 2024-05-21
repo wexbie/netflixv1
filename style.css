@@ -381,4 +381,8 @@ a {
     width: 15%;
     padding: 4px 5px;
   }
+
+  .displayvideo {
+    top: 40px;
+  }
 }
