@@ -1,31 +1,53 @@
-# Netflix Klonu
+## NETFLIX Klonu - HTML/CSS/JS
 
-Bu, HTML, CSS ve biraz JavaScript kullanılarak oluşturulmuş bir Netflix kopyasıdır. Popüler yayın platformunun tasarımını ve işlevselliğini kopyalamayı amaçlamaktadır.
+- Bu proje, NETFLIX websitesinin arayüzünü HTML ve CSS kullanarak klonlamayı hedeflemektedir. Şu anda yalnızca tasarım aşamasında olup, ileride JavaScript ile fonksiyonellik ve etkileşim eklenmesi planlanmaktadır.
 
-# Demo
-https://stellular-melomakarona-b501e4.netlify.app/
+### Proje Hakkında
 
+- Amaç: NETFLIX websitesinin kullanıcı arayüzünü birebir taklit etmek.
 
-## Nasıl Çalıştırılır
+- Teknolojiler: HTML, CSS
 
-1. Depoyu klonlayın.
-2. Tercih ettiğiniz web tarayıcısında ``` index.html ``` dosyasını açın.
+- Gelecek Planları: JavaScript ile dinamik özellikler ve işlevsellik eklenmesi.
 
+### Kullanım
 
-## Kullanılan Teknolojiler
+- Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
--HTML
--CSS
--JavaScript
+### 1. Depoyu Klonlayın veya İndirin
 
+- Projeyi klonlamak için aşağıdaki komutu kullanabilirsiniz:
 
-## Kodlayan
+```bash
+git clone https://github.com/wexbie/netflixv1.git
+```
 
-Bu Netflix klonu Eyüp Aslan tarafından oluşturuldu.
+- Ya da projeyi ZIP dosyası olarak indirip çıkarabilirsiniz.
+### 2. Dosyaları Çıkarın
+- İndirdiğiniz ZIP dosyasını bilgisayarınıza çıkarın.
 
+### 3. Projeyi Açın
+- index.html dosyasını herhangi bir tarayıcıda açarak projeyi görüntüleyebilirsiniz.
 
-## Özellikler
+### Demo
+- Projenin canlı demo sürümüne aşağıdaki linkten ulaşabilirsiniz:
 
-- Farklı ekran boyutlarına uyum sağlayan duyarlı tasarım.
-- Çeşitli film ve TV şovlarını gösteren ana sayfa.
-- Bilgi ve fragmanları içeren film ve TV şovu ayrıntıları sayfaları.
+- NETFLIX Clone Demo
+  https://netflixv1.vercel.app/
+
+**Katkıda Bulunma**
+- Eğer bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
+
+- Bu depoyu fork edin.
+- Yeni bir branch oluşturun (git checkout -b feature/NETFLIX-clone-update).
+- Değişikliklerinizi commit edin (git commit -m 'Deneme').
+- Branch'inizi pushlayın (git push origin feature/NETFLIX-clone-update).
+- Bir Pull Request açın.
+<hr>
+Lisans
+Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
+
+- İletişim
+Eğer herhangi bir sorunuz veya öneriniz varsa, lütfen issue açın veya e-posta gönderin: eyupaslnn7@gmail.com.
+
+Not: Bu proje şu anda sadece tasarım aşamasındadır ve herhangi bir işlevsellik içermemektedir. İlerleyen süreçte JavaScript ile dinamik özellikler eklenecektir.
